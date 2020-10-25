@@ -1,8 +1,9 @@
 import './App.css';
+import Users from './Users';
 
 function App() {
   return (
-    <h1>Hi</h1>
+    <Users></Users>
   );
 }
 
